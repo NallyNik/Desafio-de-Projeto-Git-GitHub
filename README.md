@@ -1,7 +1,7 @@
-#Dio orange tech+
+# Dio orange tech+
 
-##Desafio de projeto
+## Desafio de projeto
  - Git
  - GitHub
 
-##Criando o primeiro repositório!
+## Criando o primeiro repositório!
